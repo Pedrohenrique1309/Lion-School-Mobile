@@ -174,3 +174,4 @@ fun TelaInicial(modifier: Modifier = Modifier){
 private fun TelaInicialPreview(){
     TelaInicial(modifier = Modifier)
 }
+

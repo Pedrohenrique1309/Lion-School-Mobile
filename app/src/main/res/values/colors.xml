@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="azul_logo">#3347B0</color>
     <color name="amarelo">#FFC23D</color>
+    <color name="azul_claro">#CFD4EA</color>
+    <color name="cinza_claro">#F5F5F5</color>
 </resources>

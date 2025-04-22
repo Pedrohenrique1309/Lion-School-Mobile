@@ -5,4 +5,10 @@
     <string name="introducao">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
     <string name="get_started">Get Started</string>
     <string name="find_course">Find your Course</string>
+    <string name="courses">Courses</string>
+    <string name="find_student">Find a student</string>
+    <string name="ds">DS</string>
+    <string name="todos">Todos</string>
+    <string name="cursando">Cursando</string>
+    <string name="finalizado">Finalizado</string>
 </resources>
