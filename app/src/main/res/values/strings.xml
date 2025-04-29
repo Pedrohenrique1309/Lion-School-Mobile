@@ -11,4 +11,5 @@
     <string name="todos">Todos</string>
     <string name="cursando">Cursando</string>
     <string name="finalizado">Finalizado</string>
+    <string name="students_list">Students List</string>
 </resources>
